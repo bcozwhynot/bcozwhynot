@@ -6691,12 +6691,12 @@ img {
 }
 .hero__title::after {
   position: absolute;
-  content: "Pro";
+  content: " ";
   width: 70px;
   height: 45px;
   right: -80px;
   top: 70px;
-  border: 2px solid var(--white);
+  border: 0px solid var(--white);
   border-radius: 15px;
   font-weight: 600;
   font-size: 24px;
