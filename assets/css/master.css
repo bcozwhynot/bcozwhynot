@@ -6700,7 +6700,7 @@ img {
 }
 .hero__title::after {
   position: absolute;
-  content: " ";
+  content: "Pro";
   width: 70px;
   height: 45px;
   right: -80px;
